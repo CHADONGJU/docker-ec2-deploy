@@ -263,8 +263,8 @@ app.get('/', (req, res) => {
     <body>
       <div class="container">
         <div class="header">
-          <h1>20214219 차동주</h1>
-          <p>웹 애플리케이션 - TodoList, 연락처 폼</p>
+          <h1>🚀 ${APP_NAME}</h1>
+          <p>학번: 20214219 / 이름: 차동주</p>
         </div>
 
         <div class="tabs">
