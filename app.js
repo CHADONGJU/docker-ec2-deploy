@@ -263,7 +263,7 @@ app.get('/', (req, res) => {
     <body>
       <div class="container">
         <div class="header">
-          <h1>🚀 ${APP_NAME}</h1>
+          <h1>🚀 ${APP_NAME} | 이름 : 차동주 / 학번 : 20214219</h1>
           <p>웹 애플리케이션 - TodoList, 연락처 폼</p>
         </div>
 
